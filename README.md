@@ -1,1 +1,1 @@
-## list password for bruteforce attack
+## bruteforce attack
